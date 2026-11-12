@@ -4,6 +4,8 @@ A responsive, dark silver basketball performance tracker.
 
 ## Features
 - Shot tracking by 9 court positions with automatic FG%
+- Separate current-session and lifetime shooting percentages
+- Session archive: finish a workout to save its shooting line and start fresh
 - Game log: points, rebounds, assists, steals, blocks
 - Monthly training calendar, workout completion and notes
 - Progress overview and development goal
@@ -14,7 +16,7 @@ A responsive, dark silver basketball performance tracker.
 Open `index.html` in a browser, or use a local static server.
 
 ## Publish on GitHub Pages
-1. Create a public GitHub repository named `hooptracker`.
+1. Create a public GitHub repository named `HoopTracker`.
 2. Upload all files from this folder to the repository root.
 3. In **Settings → Pages**, choose **Deploy from a branch**.
 4. Select branch `main` and folder `/ (root)`, then Save.
